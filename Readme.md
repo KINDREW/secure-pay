@@ -38,7 +38,7 @@ SecurePay is a Node.js application for processing payments using Paystack and Mo
 4. Start the server:
 
    ```bash
-   node app.js
+   node server.js
    ```
 
 ## Usage
